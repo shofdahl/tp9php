@@ -1,0 +1,66 @@
+[10-Nov-2022 08:46:28 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 08:46:28 UTC] PHP Warning:  Undefined array key "recipieList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 08:47:25 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in /home/shofdah1/public_html/tp8/recipes.php on line 19
+[10-Nov-2022 08:47:58 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 08:47:58 UTC] PHP Warning:  Undefined array key "recipieList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 08:48:00 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 08:48:00 UTC] PHP Warning:  Undefined array key "recipieList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 08:49:30 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 08:49:30 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 08:50:20 UTC] PHP Parse error:  Unclosed '{' on line 6 in /home/shofdah1/public_html/tp8/recipes.php on line 17
+[10-Nov-2022 08:50:36 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 08:50:36 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 08:53:24 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 08:53:24 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 17:35:59 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 17:35:59 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 17:39:27 UTC] PHP Warning:  include(ingredients.html): Failed to open stream: No such file or directory in /home/shofdah1/public_html/tp8/recipes.php on line 10
+[10-Nov-2022 17:39:27 UTC] PHP Warning:  include(): Failed opening 'ingredients.html' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/shofdah1/public_html/tp8/recipes.php on line 10
+[10-Nov-2022 17:39:56 UTC] PHP Warning:  include(ingredients.html): Failed to open stream: No such file or directory in /home/shofdah1/public_html/tp8/recipes.php on line 10
+[10-Nov-2022 17:39:56 UTC] PHP Warning:  include(): Failed opening 'ingredients.html' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/shofdah1/public_html/tp8/recipes.php on line 10
+[10-Nov-2022 18:00:04 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 18:00:04 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 18:23:20 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 18:23:20 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[10-Nov-2022 18:24:05 UTC] PHP Warning:  Undefined array key "recipeName" in /home/shofdah1/public_html/tp8/recipes.php on line 3
+[10-Nov-2022 18:24:05 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp8/recipes.php on line 4
+[11-Nov-2022 05:44:31 UTC] PHP Parse error:  Unmatched '}' in /home/shofdah1/public_html/tp8/recipes.php on line 39
+[11-Nov-2022 05:44:31 UTC] PHP Parse error:  Unmatched '}' in /home/shofdah1/public_html/tp8/recipes.php on line 39
+[11-Nov-2022 05:44:31 UTC] PHP Parse error:  Unmatched '}' in /home/shofdah1/public_html/tp8/recipes.php on line 39
+[15-Nov-2022 05:37:09 UTC] PHP Parse error:  syntax error, unexpected identifier "x" in /home/shofdah1/public_html/tp9php/recipes.php on line 23
+[15-Nov-2022 05:37:43 UTC] PHP Parse error:  syntax error, unexpected identifier "x" in /home/shofdah1/public_html/tp9php/recipes.php on line 23
+[15-Nov-2022 05:37:43 UTC] PHP Parse error:  syntax error, unexpected identifier "x" in /home/shofdah1/public_html/tp9php/recipes.php on line 23
+[15-Nov-2022 05:37:43 UTC] PHP Parse error:  syntax error, unexpected identifier "x" in /home/shofdah1/public_html/tp9php/recipes.php on line 23
+[15-Nov-2022 05:40:31 UTC] PHP Warning:  Undefined array key "recipeID" in /home/shofdah1/public_html/tp9php/recipes.php on line 43
+[15-Nov-2022 05:40:31 UTC] PHP Warning:  Undefined variable $requestedList in /home/shofdah1/public_html/tp9php/recipes.php on line 44
+[15-Nov-2022 05:40:31 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp9php/recipes.php on line 49
+[15-Nov-2022 05:40:31 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 55
+[15-Nov-2022 05:40:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 55
+[15-Nov-2022 05:41:29 UTC] PHP Warning:  Undefined variable $requestedList in /home/shofdah1/public_html/tp9php/recipes.php on line 44
+[15-Nov-2022 05:41:29 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 55
+[15-Nov-2022 05:41:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 55
+[15-Nov-2022 05:44:50 UTC] PHP Warning:  Undefined array key "recipeID" in /home/shofdah1/public_html/tp9php/recipes.php on line 45
+[15-Nov-2022 05:44:50 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp9php/recipes.php on line 51
+[15-Nov-2022 05:44:50 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 05:44:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 06:06:34 UTC] PHP Warning:  Undefined array key "recipeID" in /home/shofdah1/public_html/tp9php/recipes.php on line 45
+[15-Nov-2022 06:06:34 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp9php/recipes.php on line 51
+[15-Nov-2022 06:06:34 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 06:06:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 06:34:43 UTC] PHP Warning:  Undefined array key "recipeID" in /home/shofdah1/public_html/tp9php/recipes.php on line 45
+[15-Nov-2022 06:34:43 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp9php/recipes.php on line 51
+[15-Nov-2022 06:34:43 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 06:34:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Undefined array key "recipeID" in /home/shofdah1/public_html/tp9php/recipes.php on line 45
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Undefined array key "recipeID" in /home/shofdah1/public_html/tp9php/recipes.php on line 45
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Undefined array key "recipeID" in /home/shofdah1/public_html/tp9php/recipes.php on line 45
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 07:01:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 58
+[15-Nov-2022 07:03:33 UTC] PHP Warning:  Undefined array key "recipeID" in /home/shofdah1/public_html/tp9php/recipes.php on line 45
+[15-Nov-2022 07:03:33 UTC] PHP Warning:  Undefined array key "recipeList" in /home/shofdah1/public_html/tp9php/recipes.php on line 51
+[15-Nov-2022 07:03:33 UTC] PHP Warning:  Undefined array key "" in /home/shofdah1/public_html/tp9php/recipes.php on line 55
+[15-Nov-2022 07:03:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/shofdah1/public_html/tp9php/recipes.php on line 55
