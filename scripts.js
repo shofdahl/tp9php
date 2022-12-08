@@ -102,6 +102,8 @@ FrenchToast = new Recipe(
 );
 
 
+// window onload functions
+
 window.onload = function() {
  
   

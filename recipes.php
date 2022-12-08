@@ -87,7 +87,7 @@ $recipes["frenchToast"]["directions"][] = "Slowly whisk in milk, eggs, sugar, va
 $recipes["frenchToast"]["directions"][] = "Lightly oil a griddle or frying pan over medium heat.";
 $recipes["frenchToast"]["directions"][] = "Soak the bread slices into the milk mixture.";
 $recipes["frenchToast"]["directions"][] = "Cook the bread slices on the griddle or frying pan. Make sure each side of the bead is golden brown";
-$recipes["frenchToast"]["directions"][] = "Serve while still hot."
+$recipes["frenchToast"]["directions"][] = "Serve while still hot!"
 
 // end array recipe stuff
 
