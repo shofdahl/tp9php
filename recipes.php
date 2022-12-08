@@ -93,25 +93,28 @@ $recipes["frenchToast"]["directions"][] = "Serve while still hot."
 
 
 
+
+//Use either $_GET[] or $REQUEST[] superglobal arrays to access perameters
+
 $requestedID = $_GET["recipeID"];
 $requestedID = htmlspecialchars($requestedID);
 $requestedID = filter_var($requestedID, FILTER_SANITIZE_STRING);
-
-//
 
 $requestedList = $_GET["recipeList"];
 $requestedList = htmlspecialchars($requestedList);
 $requestedList = filter_var($requestedList, FILTER_SANITIZE_STRING);
 
+
 $requestedOutput = $recipes[$requestedID][$requestedList];
 
+//no output default
 $requestedJSON = "0";
 
+//if $requestedOutput is not nothing, then encode it as JSON
 if ($requestedOutput != null) {
   $requestedJSON = json_encode($requestedOutput);
 }
 
-//output the JSON back to the AJAX request
 echo $requestedJSON;
 
 
